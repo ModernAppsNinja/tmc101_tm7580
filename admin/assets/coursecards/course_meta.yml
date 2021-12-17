@@ -1,0 +1,28 @@
+---
+## This Document Provides the Front Matter and Metadata for the Course Information page used in the modernapps.ninja homepage and the member profile page.
+### Hugo Template Metadata
+title: "Tanzu Mission Control 101"
+date: "2021-12-17T16:52:47Z"
+draft: true
+# meta description
+description: "Introduction to VMware Tanzu Mission Control"
+# course thumbnail
+image: "https://modernapps.ninja/tmc101_tm7580/admin/assets/images/tmc101_tm7580.jpg"
+# taxonomy
+tags: ["Tanzu Portfiolio"]
+# teacher
+teacher: "Ninja Admins"
+# duration
+duration: "0 Hours"
+# course fee
+fee: "Free!"
+# apply url
+apply_url: "https://modernapps.github.io/tmc101_tm7580"
+# type
+type: "course"
+### Extended Ninja Course Metadata
+content_id: tm7580
+course_short_title: tmc101
+course_navbar_title: Tanzu Mission Control 101
+course_repo_name: tmc101_tm7580
+---  
